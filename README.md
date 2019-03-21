@@ -1,4 +1,3 @@
-duino_projects
+TinyDuinoProjects
 ==============
-
-Collection of assorted projects for Arduino-compatible boards (e.g. Arduino Uno, Teensy, TinyDuino, Smartduino, etc...)
+Collection of assorted projects for the TinyDuino microcontroller
